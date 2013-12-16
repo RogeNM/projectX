@@ -17,13 +17,15 @@ class AppKernel extends Kernel
             new Doctrine\Bundle\DoctrineBundle\DoctrineBundle(),
             new Sensio\Bundle\FrameworkExtraBundle\SensioFrameworkExtraBundle(),
             new Cupon\OfertaBundle\CuponOfertaBundle(),
+            new Cupon\CiudadBundle\CiudadBundle(),
+            new Cupon\TiendaBundle\TientaBundle(),
+            new Cupon\UsuarioBundle\usuarioBundle(),
         );
 
         if (in_array($this->getEnvironment(), array('dev', 'test'))) {
             $bundles[] = new Symfony\Bundle\WebProfilerBundle\WebProfilerBundle();
             $bundles[] = new Sensio\Bundle\DistributionBundle\SensioDistributionBundle();
             $bundles[] = new Sensio\Bundle\GeneratorBundle\SensioGeneratorBundle();
-            $bundles[] = new Cupon\OfertaBundle\CuponOfertaBundle();
         }
 
         return $bundles;
