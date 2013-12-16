@@ -1,0 +1,16 @@
+[Sat Dec 14 17:04:07 2013] [error] [client ::1] (13)Permission denied: access to /config.php denied (filesystem path '/Users/rogeNM/Documents/ProjectX') because search permissions are missing on a component of the path
+[Sat Dec 14 17:12:41 2013] [error] [client ::1] client denied by server configuration: /Users/rogeNM/Documents/ProjectX/projectX/Cupon/web/favicon.ico
+[Sat Dec 14 17:12:51 2013] [error] [client ::1] client denied by server configuration: /Users/rogeNM/Documents/ProjectX/projectX/Cupon/web/favicon.ico
+[Sat Dec 14 17:12:52 2013] [error] [client ::1] client denied by server configuration: /Users/rogeNM/Documents/ProjectX/projectX/Cupon/web/favicon.ico
+[Sat Dec 14 21:18:46 2013] [error] [client ::1] client denied by server configuration: /Users/rogeNM/Documents/ProjectX/projectX/Cupon/web/config.php
+[Sat Dec 14 21:18:46 2013] [error] [client ::1] client denied by server configuration: /Users/rogeNM/Documents/ProjectX/projectX/Cupon/web/favicon.ico
+[Sat Dec 14 21:19:06 2013] [error] [client ::1] client denied by server configuration: /Users/rogeNM/Documents/ProjectX/projectX/Cupon/web/config.php
+[Sat Dec 14 21:19:06 2013] [error] [client ::1] client denied by server configuration: /Users/rogeNM/Documents/ProjectX/projectX/Cupon/web/favicon.ico
+[Sat Dec 14 21:20:48 2013] [error] [client ::1] client denied by server configuration: /Users/rogeNM/Documents/ProjectX/projectX/Cupon/web/config.php
+[Sat Dec 14 21:20:48 2013] [error] [client ::1] client denied by server configuration: /Users/rogeNM/Documents/ProjectX/projectX/Cupon/web/favicon.ico
+[Sat Dec 14 21:21:14 2013] [error] [client ::1] client denied by server configuration: /Users/rogeNM/Documents/ProjectX/projectX/Cupon/web/config.php
+[Sat Dec 14 21:21:14 2013] [error] [client ::1] client denied by server configuration: /Users/rogeNM/Documents/ProjectX/projectX/Cupon/web/favicon.ico
+[Sat Dec 14 21:21:28 2013] [error] [client ::1] client denied by server configuration: /Users/rogeNM/Documents/ProjectX/projectX/Cupon/web/config.php
+[Sat Dec 14 21:21:28 2013] [error] [client ::1] client denied by server configuration: /Users/rogeNM/Documents/ProjectX/projectX/Cupon/web/favicon.ico
+[Sat Dec 14 21:21:30 2013] [error] [client ::1] client denied by server configuration: /Users/rogeNM/Documents/ProjectX/projectX/Cupon/web/config.php
+[Sat Dec 14 21:21:30 2013] [error] [client ::1] client denied by server configuration: /Users/rogeNM/Documents/ProjectX/projectX/Cupon/web/favicon.ico

@@ -1,0 +1,4 @@
+cupon_oferta:
+    resource: "@CuponOfertaBundle/Resources/config/routing.yml"
+    prefix:   /
+
